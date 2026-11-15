@@ -1,23 +1,15 @@
-## Hi there
+# Software engineer with a soft spot for space.
 
-<!--
-**jevaali/jevaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Featured projects
+- **[Collision Assessment Platform](link)** – extensible Python framework for benchmarking collision assessment methods for space objects *(thesis, in progress)*
+- **[SSA Platform](link)** – space situational awareness prototype with React and C#/.NET front-ends
+- **[Space Cadets](link)** – iOS game that turns any park into a space mission for kids, with GPS navigation and map-based checkpoints
+- **[Climbing Log](link)** – Apple Watch app for logging climbs without a phone *(in development)*
 
-Here are some ideas to get you started:
+### Tech
+Python · JavaScript/TypeScript · React · C#/.NET · Swift/SwiftUI · Java · SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning projects
+[Course and practice projects →](https://github.com/jevaali?tab=repositories&q=topic:learning-project)
 
-### [Space Cadets](https://github.com/jevaali/space-cadets) 🚀
-An iOS outdoor navigation game that turns any park into a space mission for kids.  
-Younger cadets follow an arrow with hot/cold feedback; older ones navigate a real map with checkpoints, orienteering-style.
-
-`SwiftUI` `MapKit` `Core Location` `SwiftData` `Live Activities`
-
+[LinkedIn](link)
