@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **jevaali/jevaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### [Space Cadets](https://github.com/jevaali/space-cadets) 🚀
+An iOS outdoor navigation game that turns any park into a space mission for kids.  
+Younger cadets follow an arrow with hot/cold feedback; older ones navigate a real map with checkpoints, orienteering-style.
+
+`SwiftUI` `MapKit` `Core Location` `SwiftData` `Live Activities`
+
