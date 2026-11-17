@@ -48,7 +48,10 @@
 </table>
 
 ### Tech
-Python · JavaScript/TypeScript · React · Next.js · Vue · C#/.NET · Swift/SwiftUI · Java · SQL
+
+**Languages:** Python · TypeScript/JavaScript · C# · Java · Swift · SQL
+**Frameworks:** ASP.NET Core · React · Next.js · Vue · SwiftUI
+**Tools:** Git · Docker · SQLite · NumPy/SciPy
 
 ### Learning projects
 [Course and practice projects →](https://github.com/jevaali?tab=repositories&q=topic:learning-project)
