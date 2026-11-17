@@ -49,7 +49,7 @@
 
 ### Tech
 
-**Languages:** Python · TypeScript/JavaScript · C# · Java · Swift · SQL
+**Languages:** Python · TypeScript/JavaScript · C# · Java · PHP · Swift · SQL
 
 **Frameworks:** ASP.NET Core · React · Next.js · Vue · SwiftUI
 
