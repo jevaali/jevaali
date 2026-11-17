@@ -50,7 +50,9 @@
 ### Tech
 
 **Languages:** Python · TypeScript/JavaScript · C# · Java · Swift · SQL
+
 **Frameworks:** ASP.NET Core · React · Next.js · Vue · SwiftUI
+
 **Tools:** Git · Docker · SQLite · NumPy/SciPy
 
 ### Learning projects
