@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-Also in progress: my bachelor's thesis, a platform where researchers can plug in and compare satellite collision probability methods on real ESA conjunction data (Python · Next.js).
+Also in progress: my bachelor's thesis, a platform where researchers can plug in and compare satellite collision probability assessment methods on real ESA conjunction data (Python · Next.js).
 
 ### Tech
 
