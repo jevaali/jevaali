@@ -1,5 +1,3 @@
-# Software engineer with a soft spot for space.
-
 ### Featured projects
 
 <table>
