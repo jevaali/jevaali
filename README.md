@@ -31,7 +31,7 @@
       <br><sub>Swift · SwiftUI · MapKit</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="images/ascent.png" alt="Ascent">
+      <img src="images/climbing.png" alt="Ascent">
       <br><b>Ascent</b>
       <br>A climbing logbook for iPhone and Apple Watch
       <br><sub>Swift · SwiftUI · watchOS</sub>
