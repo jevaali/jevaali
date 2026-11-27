@@ -9,7 +9,6 @@
       <br><b><a href="LINK-SATSAFE">SatSafe</a></b>
       <br>Space situational awareness platform: fleet overview, orbit visualisation, conjunction screening and alerts for satellite operators
       <br><sub>ASP.NET Core · PostgreSQL · Vue · TypeScript</sub>
-      <br><sub><a href="LINK-SATSAFE">Backend</a> · <a href="LINK-SATSAFE-FRONTEND">Front-end</a></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jevaali/space-cleanup"><img src="images/space-cleanup.png" alt="Space Cleanup"></a>
